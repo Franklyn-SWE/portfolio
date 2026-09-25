@@ -10,6 +10,6 @@ The original portfolio remains available as a browsable archive of my earlier so
 
 ## Earlier software engineering projects
 
-**Browse the 2023 portfolio:** https://franklyn-swe.github.io/portfolio/archive/
+**Browse the 2023 portfolio:** https://franklyn-swe.github.io/portfolio/archive/index.html
 
 It includes the Mental Health Detecting System, the subscription-based research interface, and the ETF Platform System. The original source and assets also remain in the repository history.
