@@ -2,10 +2,14 @@
 
 This repository contains my earlier software engineering portfolio and is retained as part of my development history.
 
-The GitHub Pages version of this portfolio has been retired so that visitors and search engines are directed to my current professional portfolio.
+The original portfolio remains available as a browsable archive of my earlier software engineering projects. The former homepage directs visitors to my current professional portfolio.
 
 ## Current portfolio
 
 **Franklyn Oliha:** https://franklynoliha.com/
 
-The original source code and assets remain in the repository history for reference.
+## Earlier software engineering projects
+
+**Browse the 2023 portfolio:** https://franklyn-swe.github.io/portfolio/archive/
+
+It includes the Mental Health Detecting System, the subscription-based research interface, and the ETF Platform System. The original source and assets also remain in the repository history.
